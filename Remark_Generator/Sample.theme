@@ -1,0 +1,16 @@
+{
+  "Fonts": [
+    {
+      "Name": "Droid Serif",
+      "Style": "normal",
+      "Weight": "normal",
+      "Sources": [
+        {
+          "IsLocal": false,
+          "Location": "DroidSerif-Regular.ttf"
+        }
+      ]
+    }
+  ],
+  "Styling": "\r\n.remark-code, .remark-inline-code { font-family: \u0027Ubuntu Mono\u0027; }\r\n\r\nbody {\r\n    font-family: \u0027Droid Serif\u0027;\r\n}\r\n\r\nh1, h2, h3 {\r\n  font-family: \u0027Yanone Kaffeesatz\u0027;\r\n  font-weight: 400;\r\n  margin-bottom: 0;\r\n}\r\n\r\n.remark-slide-content h1 {\r\n  font-size: 3em;\r\n}\r\n\r\n.remark-slide-content h2 {\r\n  font-size: 2em;\r\n}\r\n\r\n.remark-slide-content h3 {\r\n  font-size: 1.6em;\r\n}\r\n\r\n.footnote {\r\n  position: absolute;\r\n  bottom: 3em;\r\n}\r\n\r\nli p {\r\n  line-height: 1.25em;\r\n}\r\n\r\n.red {\r\n  color: #fa0000;\r\n}\r\n\r\n.large {\r\n  font-size: 2em;\r\n}\r\n\r\na, a \u003E code {\r\n  color: rgb(249, 38, 114);\r\n  text-decoration: none;\r\n}\r\n\r\ncode {\r\n  background: #e7e8e2;\r\n  border-radius: 5px;\r\n}\r\n\r\n.remark-code, .remark-inline-code {\r\n  font-family: \u0027Ubuntu Mono\u0027;\r\n}\r\n\r\n.remark-code-line-highlighted {\r\n  background-color: #373832;\r\n}\r\n\r\n.pull-left {\r\n  float: left;\r\n  width: 47%;\r\n}\r\n\r\n.pull-right {\r\n  float: right;\r\n  width: 47%;\r\n}\r\n\r\n.pull-right ~ p {\r\n  clear: both;\r\n}\r\n\r\n#slideshow .slide .content code {\r\n  font-size: 0.8em;\r\n}\r\n\r\n#slideshow .slide .content pre code {\r\n  font-size: 0.9em;\r\n  padding: 15px;\r\n}\r\n\r\n.inverse {\r\n  background: #272822;\r\n  color: #777872;\r\n  text-shadow: 0 0 20px #333;\r\n}\r\n\r\n.inverse h1, .inverse h2 {\r\n  color: #f3f3f3;\r\n  line-height: 0.8em;\r\n}\r\n"
+}
